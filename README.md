@@ -3,6 +3,8 @@ test second line
 Im in test branch
 testing for tests
 
+this is the main branch
+new addition to be merged with test branch
 
 # COMP3310 Week 10
 
